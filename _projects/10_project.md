@@ -1,11 +1,12 @@
 ---
 layout: page
-title: The Rig
-description: Rig for Driver Ergonomics and Training
+title: Tk Animator
+description: Paint Application and Animation Software
 img: 
-importance: 2
-category: Carnegie Mellon Racing
+importance: 5
+category: Courses
 ---
+Video Link https://youtu.be/2Eab98nmcks?si=_3CxET1utMDNyOVu
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

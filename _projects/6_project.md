@@ -3,7 +3,7 @@ layout: page
 title: Haptic Mouse
 description: Haptic Mouse to Enhance Learning Experiences for Visually Impaired Users
 img:
-importance: 4
+importance: 2
 category: Courses
 ---
 

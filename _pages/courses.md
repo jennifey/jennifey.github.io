@@ -3,7 +3,7 @@ layout: page
 permalink: /courses/
 title: Relevant Coursework
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 ### Master's ###

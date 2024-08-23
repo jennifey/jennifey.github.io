@@ -2,9 +2,9 @@
 layout: page
 title: Beanbag Pick and Place
 description: Pick and Place Network for Deformable Objects
-img: assets/img/4.jpg
-importance: 1
-category: work
+img: 
+importance: 4
+category: Courses
 ---
 
 Every project has a beautiful feature showcase page.

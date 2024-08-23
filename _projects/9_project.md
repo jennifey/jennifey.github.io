@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: fun
+title: Optimized Racecar Control
+description: Quadratic Optimization-Based Controller for Carnegie Mellon Racing 24e
+img: 
+importance: 3
+category: Courses
 ---
 
 Every project has a beautiful feature showcase page.
