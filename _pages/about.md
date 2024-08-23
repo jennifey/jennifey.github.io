@@ -13,8 +13,11 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+<<<<<<< HEAD
 Hello! My name is Jennifer. I'm an engineer looking for a role in robotics, mechanical engineering, or anything inbetween. 
 I enjoy solving engineering problems hands-on and collaborating with peers to c
+=======
+>>>>>>> parent of 50d8fd2 (test files)
 
 
 
