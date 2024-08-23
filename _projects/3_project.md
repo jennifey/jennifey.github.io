@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: Gecko Robotics Dedicated Tester
+description: Dedicated Tester for the Center Body of TOKA 4 from Gecko Robotics
+img: assets/img/gecko/cbtester.jpg
+importance: 1
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.

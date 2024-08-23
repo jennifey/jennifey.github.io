@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: The Rig
+description: Rig for Driver Ergonomics and Training
+img: 
+importance: 2
+category: cmr
 ---
 
 Every project has a beautiful feature showcase page.

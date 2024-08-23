@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Bellcranks and Dampers
+description: Bellcranks and Dampers System for Carnegie Mellon Racing 22e
+img: assets/img/bellcranks/bellcrank-square.jpg
+importance: 1
+category: Carnegie Mellon Racing
 ---
 
 Every project has a beautiful feature showcase page.

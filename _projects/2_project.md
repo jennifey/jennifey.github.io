@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: HISSbot
+description: Helical Inflating Soft Snake Robot
+img: assets/img/hissbot/hissbot.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: Research
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

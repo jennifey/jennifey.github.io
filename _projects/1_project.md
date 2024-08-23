@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: DeltaWalker
+description: Soft, Linearly Actuated Delta Quadruped Robot
+img: assets/img/deltawalker/deltawalker.jpg
 importance: 1
-category: work
+category: Research
 related_publications: true
 ---
 
