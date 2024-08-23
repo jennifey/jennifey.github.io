@@ -2,7 +2,8 @@
 layout: cv
 permalink: /resume/
 title: Resume
-nav: true
+nav: false
 nav_order: 1
-cv_pdf: jennifer_yang_resume.pdf
+cv_pdf: Jennifer_Yang_Resume.pdf
 ---
+
