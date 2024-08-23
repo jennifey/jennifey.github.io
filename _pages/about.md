@@ -8,19 +8,22 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-This is a test
+Hello! My name is Jennifer. I'm an engineer looking for a role in robotics, mechanical engineering, or anything inbetween. 
+I enjoy solving engineering problems hands-on and collaborating with peers to c
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I graduated from Carnegie Mellon University in August 2024 with a Master of Science in Robotics. 
+At CMU, I was advised by [Prof. Zeynep Temel](https://www.ri.cmu.edu/ri-faculty/zeynep-temel/). 
+For my masters, I built an omnidirectional, quadruped robot and investigated walking gaits for the robot.
+I also completed my Bachelor of Science in Mechanical Engineering at CMU in May 2023.
+
+
+During that time, I designed and prototyped a posture enhancing chair, worked as a resident assistant in the dorms, and organized multiple career fairs with the Society of Women Engineers. 
+I also engineered multiple systems for Carnegie Mellon Racing: the bellcranks and dampers system for the racecar suspension and a simulation rig for testing driver ergonomics and training drivers. 
+I have interned at Gecko Robotics, where I developed a testing unit for a 
