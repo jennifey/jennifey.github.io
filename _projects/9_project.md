@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Optimized Racecar Control
-description: Quadratic Optimization-Based Controller for Carnegie Mellon Racing 24e
+title: Posture Enhancing Chair
+description: Posture Enhancing Chair with Posture Detection and Haptic and Visual Feedback
 img: 
-importance: 3
+importance: 4
 category: Courses
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

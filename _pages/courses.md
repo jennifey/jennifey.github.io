@@ -13,7 +13,7 @@ nav_order: 3
 * 16740 Learning for Manipulation
 * 16745 Optimal Control and Reinforcement Learning
 * 16811 Math Fundamentals for Robotics
-* 16880 Haptic Interfaces
+* 16880 Engineering Haptic Interfaces
 
 ### Undergraduate ###
 * 15112 Fundamentals of Programming and Computer Science

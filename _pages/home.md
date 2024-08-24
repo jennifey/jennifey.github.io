@@ -26,4 +26,4 @@ My strengths include working with diverse teams, hands-on prototyping, and turni
 My aim is to innovate and continually expand my skill set through working on mechanical design, robot development, and project leadership.
 
 **I'm actively seeking opportunities in mechanical engineering, robotics, or related fields. 
-If you would like to learn more about my prior experience, please refer to my [resume](/resume/) or take a look at some of my [projects](/projects/). Enjoy!**
+If you would like to learn more about my prior experience, please refer to my [resume](/assets/pdf/Jennifer_Yang_Resume.pdf) or take a look at some of my [projects](/projects/). Enjoy!**
