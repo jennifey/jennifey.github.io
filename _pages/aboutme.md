@@ -11,12 +11,14 @@ Transforming a simple concept into a functioning robot felt like pure magic.
 It was amazing to see what I learned in class come to life in real-world designs.
 
 When I’m not focused on engineering, I have a variety of hobbies that keep me busy. 
-I’ve taken up crocheting, starting with amigurumi kits from the Woobles and moving on to crafting accessories. 
+I enjoy being creative, and I used to draw and paint. 
+Recently, I’ve taken up crocheting. 
+I started with amigurumi kits from the Woobles and then moved on to crafting accessories. 
 Now, I'm tackling my first sweater and looking forward to learning knitting and sewing to create more clothing.
 
 I also really enjoy baking and cooking.
 I’m working on compiling my favorite recipes into a personal cookbook. 
-I especially enjoy making Chinese pastries, though garlic bread is a close second. 
+I especially enjoy making Chinese pastries, though garlic bread is a close second.
 
 In the winter time, I enjoy skiing and snowboarding. 
 I've been skiing since I was a child and started snowboarding later.
