@@ -2,7 +2,7 @@
 layout: page
 title: PosChair
 description: Posture Enhancing Chair
-img: /assets/img/poschair/poschair-square.PNG
+img: /assets/img/poschair/poschair-square.png
 importance: 4
 category: Courses
 ---
