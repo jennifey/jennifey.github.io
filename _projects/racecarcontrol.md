@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Optimized Racecar Control
+title: Racecar Controller
 description: Quadratic Optimization-Based Controller for Carnegie Mellon Racing 24e
 img: /assets/img/robomath/car-square.jpg
 importance: 2
