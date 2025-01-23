@@ -15,7 +15,7 @@ While I was there, I worked on the TOKA 4 robot, pictured below.
     </div>
 </div>
 <div class="caption">
-    TOKA 4 (Photo Courtesy of Gecko Robotics)
+    TOKA 4 (https://technical.ly/startups/gecko-robotics-series-c/)
 </div>
 
 The TOKA 4 robot is complex with many subsystems, one of them being the Center Body (CB) of the robot
